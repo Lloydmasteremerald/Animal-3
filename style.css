@@ -1,0 +1,37 @@
+.copy_right_footer
+{
+    position: fixed;
+    color: #000000;
+    font-weight: bold;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: lime;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px red;
+}
+
+body
+{
+    background-image: linear-gradient(rgb(123, 255, 0), blue);
+}
+
+#p
+{
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+}
+
+
+.warning
+{
+    background-color:orange ;
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
